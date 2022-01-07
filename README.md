@@ -1,5 +1,5 @@
 # hi i m samir 
-# i m  a discord bot developer and some website also
+# i m  a developer and web too with flask in python or express in node.js
  ## currently learning python and java
 
 
