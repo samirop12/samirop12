@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sameer atta</h1>
+<h1 align="center">Hi 👋, I'm sameer </h1>
 <h3 align="center">a front end web developer and app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirop12&label=Profile%20views&color=0e75b6&style=flat" alt="samirop12" /> </p>
